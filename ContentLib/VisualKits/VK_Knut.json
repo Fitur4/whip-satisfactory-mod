@@ -1,0 +1,5 @@
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/refs/heads/main/JsonSchemas/CL_VisualKit.json",
+  "Mesh": "WhipModel.obj",
+  "BigIcon": "Desc_Knut"
+}

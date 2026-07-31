@@ -1,0 +1,16 @@
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/refs/heads/main/JsonSchemas/CL_Item.json",
+  "Name": "Кнут",
+  "NameShort": "Кнут",
+  "Description": "Оружие ближнего боя.",
+  "CanBeDiscarded": true,
+  "RememberPickUp": false,
+  "EnergyValue": 0.0,
+  "RadioactiveDecay": 0.0,
+  "PersistentBigIcon": "Desc_Knut",
+  "VisualKit": "VK_Knut",
+  "EquipmentClass": "/Game/FactoryGame/Equipment/ShockShank/Equip_ShockShank.Equip_ShockShank_C",
+  "Form": "Solid",
+  "Category": "Cat_Weapons_C",
+  "StackSize": "One"
+}

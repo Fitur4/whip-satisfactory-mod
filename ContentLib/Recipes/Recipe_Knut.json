@@ -1,0 +1,38 @@
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/refs/heads/main/JsonSchemas/CL_Recipe.json",
+  "Name": "Кнут",
+  "Ingredients": [
+    {
+      "Item": "Desc_IronRod",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_IronPlateReinforced",
+      "Amount": 2
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 15
+    },
+    {
+      "Item": "Desc_Wire",
+      "Amount": 50
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Knut",
+      "Amount": 1
+    }
+  ],
+  "ProducedIn": [
+    "BP_WorkshopComponent"
+  ],
+  "OverrideCategory": "Cat_Weapons_C",
+  "ManufacturingMenuPriority": 0.0,
+  "Unlocked": true,
+  "ManualManufacturingDuration": 5.0,
+  "ClearIngredients": true,
+  "ClearProducts": true,
+  "ClearBuilders": false
+}
